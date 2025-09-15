@@ -1,3 +1,4 @@
+![logo](https://github.com/adityatumedwar/adityatumedwar/blob/main/WhatsApp%20Image%202025-09-15%20at%2020.42.18_41f7f920.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Tumedwar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
