@@ -1,6 +1,6 @@
 ![logo](https://github.com/adityatumedwar/adityatumedwar/blob/main/WhatsApp%20Image%202025-09-15%20at%2020.42.18_41f7f920.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Tumedwar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 <img aligh="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
