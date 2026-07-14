@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityatumedwar&label=Profile%20views&color=0e75b6&style=flat" alt="adityatumedwar" /> </p>
 
-- 🔭 I’m currently in Final Year Studying in B tech IT information technology **Mobile review sentiment analysis**
+- 🔭 Aspiring Data Analyst | Python (Pandas, NumPy) | SQL | Power BI | Excel | B.Tech IT '26 **Mobile review sentiment analysis** **Healthcare Management Website**
 
-- 🌱 I’m currently learning **Java ,Python ,SQL**
+- 🌱 I’m currently learning **Data analyst ,pandas ,Data vizualization ,Mysql ,numpy ,Excel ,Power Bi ,Python ,SQL**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aditya-tumedwar-426578282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aditya-tumedwar-426578282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
